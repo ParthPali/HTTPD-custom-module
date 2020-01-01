@@ -1,0 +1,9 @@
+#! /bin/sh
+#
+# Created by configure
+
+"./configure" \
+"--with-included-apr" \
+"--with-pcre=/Users/Paliwal/Documents/HTTPD/pcre" \
+"--prefix=/Users/Paliwal/Documents/GoogleCodein/HTTPD/myApache-GCI" \
+"$@"
