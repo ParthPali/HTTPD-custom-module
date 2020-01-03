@@ -23,4 +23,4 @@ In the httpd.conf file, add the following lines:
 
 In the terminal type the command ` myApache-GCI/bin/apachectl -k start`
 
-Navigat to http//:localhost.com
+Navigate to http//:localhost/psquare
