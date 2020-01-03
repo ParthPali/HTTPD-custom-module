@@ -1,0 +1,11 @@
+prefix=/Users/Paliwal/Documents/GoogleCodein/HTTPD/myApache-GCI
+exec_prefix=/Users/Paliwal/Documents/GoogleCodein/HTTPD/myApache-GCI
+libdir=${prefix}/lib
+APR_MAJOR_VERSION=1
+includedir=/Users/Paliwal/Documents/GoogleCodein/HTTPD/myApache-GCI/include
+
+Name: APR
+Description: The Apache Portable Runtime library
+Version: 1.7.0
+Libs: -L${libdir} -lapr-${APR_MAJOR_VERSION} -lpthread
+Cflags: -DDARWIN -DSIGPROCMASK_SETS_THREAD_MASK -DDARWIN_10 -g -O2 -I${includedir}

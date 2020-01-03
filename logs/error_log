@@ -1,0 +1,26 @@
+[Wed Jan 01 13:46:51.377916 2020] [mpm_event:notice] [pid 71707:tid 4416884160] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Wed Jan 01 13:46:51.378554 2020] [core:notice] [pid 71707:tid 4416884160] AH00094: Command line: '/Users/Paliwal/Documents/GoogleCodein/HTTPD/myApache-GCI/bin/httpd'
+[Wed Jan 01 13:48:32.459217 2020] [mpm_event:notice] [pid 71707:tid 4416884160] AH00491: caught SIGTERM, shutting down
+[Wed Jan 01 14:40:57.211521 2020] [mpm_event:notice] [pid 73096:tid 4740849088] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Wed Jan 01 14:40:57.213194 2020] [core:notice] [pid 73096:tid 4740849088] AH00094: Command line: '/Users/Paliwal/Documents/GoogleCodein/HTTPD/myApache-GCI/bin/httpd'
+[Wed Jan 01 14:47:20.631943 2020] [core:warn] [pid 73096:tid 4740849088] AH00045: child process 73098 still did not exit, sending a SIGTERM
+[Wed Jan 01 14:47:22.634574 2020] [core:warn] [pid 73096:tid 4740849088] AH00045: child process 73098 still did not exit, sending a SIGTERM
+[Wed Jan 01 14:47:24.637215 2020] [core:warn] [pid 73096:tid 4740849088] AH00045: child process 73098 still did not exit, sending a SIGTERM
+[Wed Jan 01 14:47:26.638368 2020] [core:error] [pid 73096:tid 4740849088] AH00046: child process 73098 still did not exit, sending a SIGKILL
+[Wed Jan 01 14:47:27.641889 2020] [mpm_event:notice] [pid 73096:tid 4740849088] AH00491: caught SIGTERM, shutting down
+[Wed Jan 01 14:47:44.586686 2020] [mpm_event:notice] [pid 73197:tid 4453658048] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Wed Jan 01 14:47:44.587341 2020] [core:notice] [pid 73197:tid 4453658048] AH00094: Command line: '/Users/Paliwal/Documents/GoogleCodein/HTTPD/myApache-GCI/bin/httpd'
+[Wed Jan 01 14:49:40.192375 2020] [core:warn] [pid 73197:tid 4453658048] AH00045: child process 73202 still did not exit, sending a SIGTERM
+[Wed Jan 01 14:49:42.194096 2020] [core:warn] [pid 73197:tid 4453658048] AH00045: child process 73202 still did not exit, sending a SIGTERM
+[Wed Jan 01 14:49:44.195761 2020] [core:warn] [pid 73197:tid 4453658048] AH00045: child process 73202 still did not exit, sending a SIGTERM
+[Wed Jan 01 14:49:46.197557 2020] [core:error] [pid 73197:tid 4453658048] AH00046: child process 73202 still did not exit, sending a SIGKILL
+[Wed Jan 01 14:49:47.200121 2020] [mpm_event:notice] [pid 73197:tid 4453658048] AH00491: caught SIGTERM, shutting down
+[Wed Jan 01 14:49:55.967107 2020] [mpm_event:notice] [pid 73247:tid 4540235200] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Wed Jan 01 14:49:55.967633 2020] [core:notice] [pid 73247:tid 4540235200] AH00094: Command line: '/Users/Paliwal/Documents/GoogleCodein/HTTPD/myApache-GCI/bin/httpd'
+[Wed Jan 01 15:11:12.743981 2020] [mpm_event:notice] [pid 73247:tid 4540235200] AH00491: caught SIGTERM, shutting down
+[Wed Jan 01 15:11:22.398270 2020] [mpm_event:notice] [pid 73888:tid 4477447616] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Wed Jan 01 15:11:22.398786 2020] [core:notice] [pid 73888:tid 4477447616] AH00094: Command line: '/Users/Paliwal/Documents/GoogleCodein/HTTPD/myApache-GCI/bin/httpd'
+[Wed Jan 01 15:16:05.267155 2020] [mpm_event:notice] [pid 73888:tid 4477447616] AH00491: caught SIGTERM, shutting down
+[Wed Jan 01 15:16:10.994147 2020] [mpm_event:notice] [pid 74021:tid 4473535936] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Wed Jan 01 15:16:10.994721 2020] [core:notice] [pid 74021:tid 4473535936] AH00094: Command line: '/Users/Paliwal/Documents/GoogleCodein/HTTPD/myApache-GCI/bin/httpd'
+[Wed Jan 01 16:16:09.866525 2020] [mpm_event:notice] [pid 74021:tid 4473535936] AH00491: caught SIGTERM, shutting down
